@@ -1,0 +1,16 @@
+grafana-dev-co84: 172.17.0.3:3100
+nodered-dev-rmbm: 172.17.0.4:1980
+influxdb-dev-bk6h: 172.17.0.2:8186
+grafana-dev-efrp: 172.17.0.2:3100
+grafana-dev-2byn: 172.17.0.3:3101
+grafana-dev-fevw: 172.17.0.2:3100
+grafana-dev-fevw: 172.17.0.2:3100
+grafana-dev-2byn: 172.17.0.3:3101
+influxdb-dev-848w: 172.17.0.4:8186
+nodered-dev-yowd: 172.17.0.5:1980
+grafana-prod-wdih: 172.17.0.3:3000
+nodered-prod-18nv: 172.17.0.4:1880
+influxdb-prod-ppe4: 172.17.0.2:8086
+grafana-prod-41pm: 172.17.0.4:3000
+influxdb-prod-1jl9: 172.17.0.2:8086
+nodered-prod-xntu: 172.17.0.3:1880
